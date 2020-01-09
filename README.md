@@ -38,7 +38,7 @@ pip install pillow==5.2.0
 ## 实验结果
 ![结果](https://github.com/LJKingd/MlWorkWithFRcnn/blob/master/re.png)
 
-## 团队分工
+## 团队分工 
 * 武易：组长，负责团队协调工作，寻找合适的模型，解决不平衡问题
 * 耿琛明：负责生成平移数据，生成过采样数据
 * 梁金：修改模型输入输出接口，调试模型运行环境，编写生成voc数据程序，
